@@ -10,16 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-<<<<<<< Updated upstream
-    "@material/web": "^1.0.1"
-=======
-    "@lit/reactive-element": "^1.0.0",
     "@material/web": "^1.0.1",
     "@rollup/plugin-node-resolve": "^15.2.3",
-    "lit": "^2.0.0",
-    "lit-element": "^3.0.0",
-    "lit-html": "^2.0.0",
     "rollup": "^4.3.0"
->>>>>>> Stashed changes
   }
 }
