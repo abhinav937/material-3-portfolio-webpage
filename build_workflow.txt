@@ -1,0 +1,8 @@
+# not needed
+npm install rollup @rollup/plugin-node-resolve
+
+# 1st step  #run this in the index.html directory
+npx rollup -p @rollup/plugin-node-resolve index.js -o bundle.js
+
+
+link:https://github.com/material-components/material-web/blob/main/docs/quick-start.md#building
